@@ -1,0 +1,11 @@
+Hello World
+How are you
+What is the plan for Today
+Are you working on AI Technologies Today
+Is there a way AI can help You
+Hello World
+How are you
+What is the plan for Today
+Are you working on AI Technologies
+Number of lines: 9
+Number of words: 43
