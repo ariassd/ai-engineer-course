@@ -60,3 +60,13 @@ print("SQR", np.sqrt(arr))
 print("SUM", np.sum(arr))
 print("The mean is the average of the numbers (4+16+25)/3 = ", np.mean(arr))
 print("MAX", np.max(arr))
+
+
+print("SUB ARRAYS WITH NUMPY")
+arr = np.array([10, 20, 30, 40, 50, 60])
+print(arr[2])
+print(arr[-1])
+print(arr[1:4])
+print(arr[3:])
+reshaped = arr.reshape(2, 3)
+print(reshaped)
