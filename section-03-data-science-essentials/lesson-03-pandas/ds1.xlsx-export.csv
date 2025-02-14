@@ -1,0 +1,14 @@
+;id;name;contribution;type
+0;scratch;scratch;0.5;casino
+1;card;card;0.5;casino
+2;lottery;lottery;0.5;casino
+3;craps;craps;0.5;casino
+4;poker;poker;0.5;casino
+5;slots;slots;1.0;casino
+6;crash;crash;1.0;casino
+7;fishing;fishing;1.0;sports
+8;virtual_sports;virtual_sports;0.5;sports
+9;video_poker;video_poker;0.5;sports
+10;roulette;roulette;0.5;sports
+11;casual;casual;0.5;sports
+12;other;other;1.0;sports
