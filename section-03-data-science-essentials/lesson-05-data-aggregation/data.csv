@@ -1,0 +1,106 @@
+contributorId;contributorName;xpContributionPercentage;contributorType
+scratch;scratch;0.5;casino
+card;card;0.5;casino
+lottery;lottery;0.5;casino
+craps;craps;0.2;casino
+poker;poker;0.2;casino
+slots;slots;1;casino
+crash;crash;0.5;casino
+fishing;fishing;1;casino
+virtual_sports;virtual_sports;0.5;casino
+video_poker;video_poker;0.5;casino
+roulette;roulette;0.2;casino
+casual;casual;0.5;casino
+other;other;1;casino
+martial_arts;Martial Arts;0.5;sport
+volleyball;Volleyball;0.5;sport
+rugby_league;Rugby League;0.5;sport
+beach_volleyball;Beach Volleyball;0.5;sport
+rugby_union;Rugby Union;0.5;sport
+cricket;Cricket;0.5;sport
+biathlon;Biathlon;0.5;sport
+shooting;Shooting;0.5;sport
+football;Football;0.5;sport
+baseball;Baseball;0.5;sport
+boxing;Boxing;0.5;sport
+water_polo;Water Polo;0.5;sport
+curling;Curling;0.5;sport
+table_football;Table Football;0.5;sport
+bowls;Bowls;0.5;sport
+wrestling;Wrestling;0.5;sport
+equestrian;Equestrian;0.5;sport
+triathlon;Triathlon;0.5;sport
+softball;Softball;0.5;sport
+american_football;American Football;0.5;sport
+e-basketball;E-Basketball;0.5;sport
+bandy;Bandy;0.5;sport
+snooker;Snooker;0.5;sport
+chess;Chess;0.5;sport
+lottery_sport;Lottery (Sport);0.5;sport
+ski_jumping;Ski Jumping;0.5;sport
+canoeing;Canoeing;0.5;sport
+bobsleigh;Bobsleigh;0.5;sport
+skiing;Skiing;0.5;sport
+darts;Darts;0.5;sport
+formula_1;Formula 1;0.5;sport
+lacrosse;Lacrosse;0.5;sport
+golf;Golf;0.5;sport
+sumo;Sumo;0.5;sport
+rally;Rally;0.5;sport
+others;Others;0.5;sport
+cycling;Cycling;0.5;sport
+oscar;Oscar;0.5;sport
+ski_racing;Ski Racing;0.5;sport
+billiard;Billiard;0.5;sport
+athletics;Athletics;0.5;sport
+surfing;Surfing;0.5;sport
+special_stakes;Special stakes;0.5;sport
+sports_and_social_events;Sports and social events;0.5;sport
+skeleton;Skeleton;0.5;sport
+virtual_sport;Virtual Sport;0.5;sport
+gaelic_football;Gaelic Football;0.5;sport
+e-football;E-Football;0.5;sport
+beach_football;Beach Football;0.5;sport
+padel_tennis;Padel Tennis;0.5;sport
+squash;Squash;0.5;sport
+floorball;Floorball;0.5;sport
+hurling;Hurling;0.5;sport
+speed_skating;Speed Skating;0.5;sport
+eurovision;Eurovision;0.5;sport
+basketball;Basketball;0.5;sport
+tennis;Tennis;0.5;sport
+ice_hockey;Ice Hockey;0.5;sport
+basketball_3x3;Basketball 3x3;0.5;sport
+aussie_rules;Aussie Rules;0.5;sport
+field_hockey;Field Hockey;0.5;sport
+speedway;Speedway;0.5;sport
+short_track;Short Track;0.5;sport
+weightlifting;Weightlifting;0.5;sport
+water_sports;Water Sports;0.5;sport
+luge;Luge;0.5;sport
+esports;Esports;0.5;sport
+politics;Politics;0.5;sport
+auto_racing;Auto Racing;0.5;sport
+kabaddi;Kabaddi;0.5;sport
+nascar;NASCAR;0.5;sport
+freestyle_skiing;Freestyle Skiing;0.5;sport
+motorcycling;Motorcycling;0.5;sport
+table_tennis;Table Tennis;0.5;sport
+futsal;Futsal;0.5;sport
+badminton;Badminton;0.5;sport
+handball;Handball;0.5;sport
+roller_hockey;Roller Hockey;0.5;sport
+indycar;IndyCar;0.5;sport
+mini_football;Mini Football;0.5;sport
+specials;Specials;0.5;sport
+sport_climbing;Sport Climbing;0.5;sport
+archery;Archery;0.5;sport
+olympic_games;Olympic Games;0.5;sport
+e-icehockey;E-IceHockey;0.5;sport
+odds_booster;Odds Booster;0.5;sport
+netball;Netball;0.5;sport
+cross_country_skiing;Cross Country Skiing;0.5;sport
+footbal;Footbal;0.5;sport
+judo;Judo;0.5;sport
+snowboard;Snowboard;0.5;sport
+other_sport;other (Sport);0.5;sport
